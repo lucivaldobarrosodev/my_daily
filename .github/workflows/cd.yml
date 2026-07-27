@@ -20,6 +20,6 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKERHUB_USER }}/meu-projeto-docker:latest
+          tags: ${{ secrets.DOCKERHUB_USER }}/may_daily:latest
 
           
